@@ -1,4 +1,5 @@
 // Introduction To Classes, Objects And Methods
+package JAVA;
 class Box {
     double width;
     double height;

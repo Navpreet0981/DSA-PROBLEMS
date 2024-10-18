@@ -1,3 +1,4 @@
+package JAVA;
 enum status{
     Running, Failed, Pending, Success;
 }

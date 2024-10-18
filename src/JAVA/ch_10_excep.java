@@ -99,7 +99,7 @@
 //         } 
 //     }
 // }
-
+package JAVA;
 public class ch_10_excep {
     public static int greet(){
         try{

@@ -130,7 +130,7 @@
     
 // }
 
-
+package JAVA;
 // THREAD METHODS
 class Mythr3 extends Thread{
     public void run(){

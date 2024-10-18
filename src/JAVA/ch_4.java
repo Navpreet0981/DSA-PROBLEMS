@@ -1,5 +1,5 @@
 // LOOPS
-
+package JAVA;
 import java.util.Scanner;
 
 public class ch_4 {
