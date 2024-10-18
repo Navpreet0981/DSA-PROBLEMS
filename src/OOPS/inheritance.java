@@ -1,4 +1,6 @@
 package OOPS;
+
+//BASIC CONCEPTS OF INHERITANCE
 class base1 {
     int x;
 

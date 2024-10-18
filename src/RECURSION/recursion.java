@@ -1,6 +1,8 @@
 package RECURSION;
 import java.sql.SQLOutput;
 
+//ALL BASIC FUNCTIONS OF RECURSION USING JAVA
+
 public class recursion {
     public static void printDecreasing(int n) {
 

@@ -1,4 +1,6 @@
 package OOPS;
+
+//ABSTRACTING DATA FROM ONE CLASS TO ANOTHER
 abstract class base {
     public base() {
         System.out.println("I Am Constructor Of Base Class");

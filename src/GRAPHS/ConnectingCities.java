@@ -1,7 +1,7 @@
 package GRAPHS;
 
 import java.util.PriorityQueue;
-
+//USING PRIM'S ALGORITHM--> JUST FINDING MINIMAL SPANNING TREE
 public class ConnectingCities {
     static  class Edge implements Comparable<Edge>{
         int dest;

@@ -1,4 +1,6 @@
 package OOPS;
+
+//OVERRIDING DIFFERENT FUNCTIONS FROM ONE CLASS TO ANOTHER
 class Car {
     public void name(){
         System.out.println("The Car Name Is SUPRAA!!!!");
