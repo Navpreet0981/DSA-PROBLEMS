@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05b7bcbd-9a0f-450a-9ffd-99d953341991" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/GRAPHS/ConnectingCities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GRAPHS/DisjointSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GRAPHS/flightKStops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GRAPHS/Prims.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GRAPHS/Prims.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,17 +52,20 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Bellman_Ford.executor": "Run",
+    "Application.ConnectingCities.executor": "Run",
     "Application.Dijkstra.executor": "Run",
+    "Application.DisjointSets.executor": "Run",
     "Application.IsCycle.executor": "Run",
     "Application.Prims.executor": "Run",
     "Application.Topological.executor": "Run",
+    "Application.flightKStops.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Prims">
+  <component name="RunManager" selected="Application.DisjointSets">
     <configuration name="Bellman_Ford" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GRAPHS.Bellman_Ford" />
       <module name="DSA_JAVA" />
@@ -74,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GRAPHS.Dijkstra" />
+    <configuration name="ConnectingCities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GRAPHS.ConnectingCities" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GRAPHS.IsCycle" />
+    <configuration name="DisjointSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GRAPHS.DisjointSets" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topological" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GRAPHS.Topological" />
+    <configuration name="flightKStops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GRAPHS.flightKStops" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DisjointSets" />
+        <item itemvalue="Application.ConnectingCities" />
+        <item itemvalue="Application.flightKStops" />
         <item itemvalue="Application.Prims" />
         <item itemvalue="Application.Bellman_Ford" />
-        <item itemvalue="Application.Dijkstra" />
-        <item itemvalue="Application.Topological" />
-        <item itemvalue="Application.IsCycle" />
       </list>
     </recent_temporary>
   </component>
