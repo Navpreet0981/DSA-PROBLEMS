@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05b7bcbd-9a0f-450a-9ffd-99d953341991" name="Changes" comment="" />
+    <list default="true" id="05b7bcbd-9a0f-450a-9ffd-99d953341991" name="Changes" comment="basic changes in JAVA folder">
+      <change afterPath="$PROJECT_DIR$/src/FILEHANDLING/FirstFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FILEHANDLING/ReadingFille.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FILEHANDLING/WrittingFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FILEHANDLING/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA/annotations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA/autoboxing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA/ch_10_excep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA/ch_11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA/ch_11_Thread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA/ch_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA/ch_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA/ch_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA/enumeration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MULTI-THREADING/MThread.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +50,9 @@
     &quot;accountId&quot;: &quot;dc76ab69-7c9f-47b1-951e-19eecd1900ca&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/FILEHANDLING/ReadingFille.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -46,27 +67,57 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AreaUsingThreads (1).executor": "Run",
+    "Application.AreaUsingThreads (2).executor": "Run",
+    "Application.AreaUsingThreads.executor": "Run",
     "Application.Bellman_Ford.executor": "Run",
     "Application.ConnectingCities.executor": "Run",
     "Application.Dijkstra.executor": "Run",
     "Application.DisjointSets.executor": "Run",
+    "Application.ExtendingThreads (1).executor": "Run",
+    "Application.ExtendingThreads.executor": "Run",
+    "Application.FirstFile.executor": "Run",
     "Application.IsCycle.executor": "Run",
+    "Application.Kruskal.executor": "Run",
+    "Application.MThread.executor": "Run",
     "Application.Prims.executor": "Run",
+    "Application.ReadingFille.executor": "Run",
+    "Application.SchedulingThreads.executor": "Run",
+    "Application.ThradControl.executor": "Run",
+    "Application.ThreadCommunication (1).executor": "Run",
+    "Application.ThreadCommunication.executor": "Run",
+    "Application.ThreadControl (1).executor": "Run",
     "Application.Topological.executor": "Run",
+    "Application.UsingRI.executor": "Run",
+    "Application.WrittingFile.executor": "Run",
     "Application.flightKStops.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DisjointSets">
-    <configuration name="Bellman_Ford" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GRAPHS.Bellman_Ford" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\OneDrive\Desktop\DSA_JAVA\src\ARRAYLIST" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="STRINGS" />
+      <recent name="QUEUE_STACK" />
+      <recent name="GREEDY" />
+      <recent name="SORTING" />
+      <recent name="ARRAYLIST" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReadingFille">
+    <configuration name="AreaUsingThreads (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MULTITHREADING.AreaUsingThreads" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GRAPHS.*" />
+          <option name="PATTERN" value="MULTITHREADING.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConnectingCities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GRAPHS.ConnectingCities" />
+    <configuration name="AreaUsingThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MULTITHREADING.AreaUsingThreads" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GRAPHS.*" />
+          <option name="PATTERN" value="MULTITHREADING.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisjointSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GRAPHS.DisjointSets" />
+    <configuration name="FirstFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FILEHANDLING.FirstFile" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GRAPHS.*" />
+          <option name="PATTERN" value="FILEHANDLING.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prims" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GRAPHS.Prims" />
+    <configuration name="ReadingFille" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FILEHANDLING.ReadingFille" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GRAPHS.*" />
+          <option name="PATTERN" value="FILEHANDLING.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +164,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="flightKStops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GRAPHS.flightKStops" />
+    <configuration name="ThreadControl (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MULTITHREADING.ThreadControl" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GRAPHS.*" />
+          <option name="PATTERN" value="MULTITHREADING.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MULTITHREADING.ThreadControl" />
+      <module name="DSA_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MULTITHREADING.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrittingFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FILEHANDLING.WrittingFile" />
+      <module name="DSA_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FILEHANDLING.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DisjointSets" />
-        <item itemvalue="Application.ConnectingCities" />
-        <item itemvalue="Application.flightKStops" />
-        <item itemvalue="Application.Prims" />
-        <item itemvalue="Application.Bellman_Ford" />
+        <item itemvalue="Application.ReadingFille" />
+        <item itemvalue="Application.WrittingFile" />
+        <item itemvalue="Application.FirstFile" />
+        <item itemvalue="Application.ThreadControl (1)" />
+        <item itemvalue="Application.ThreadControl" />
       </list>
     </recent_temporary>
   </component>
@@ -160,5 +237,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="basic changes in JAVA folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="basic changes in JAVA folder" />
   </component>
 </project>
