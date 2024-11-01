@@ -3,7 +3,7 @@ import javax.swing.*;
 public class simpleSwingExample {
     JFrame f;
     simpleSwingExample(){
-        f = new JFrame("Simple Sweing Example");
+        f = new JFrame("Simple Swing Example");
         JLabel l = new JLabel("Enter Your Name");
         l.setBounds(50,100,100,30);
         JTextField t = new JTextField("Navv");

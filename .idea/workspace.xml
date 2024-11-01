@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05b7bcbd-9a0f-450a-9ffd-99d953341991" name="Changes" comment="basic changes in JAVA folder">
-      <change afterPath="$PROJECT_DIR$/src/FILEHANDLING/FirstFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FILEHANDLING/ReadingFille.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FILEHANDLING/WrittingFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FILEHANDLING/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/SWING/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/calculatorApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAVA/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAVA/annotations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAVA/autoboxing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAVA/ch_10_excep.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAVA/ch_11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAVA/ch_11_Thread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAVA/ch_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAVA/ch_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAVA/ch_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAVA/enumeration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MULTI-THREADING/MThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/SWING/simpleSwingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/SWING/simpleSwingExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -71,26 +59,40 @@
     "Application.AreaUsingThreads (2).executor": "Run",
     "Application.AreaUsingThreads.executor": "Run",
     "Application.Bellman_Ford.executor": "Run",
+    "Application.BorderLayoutDemo.executor": "Run",
+    "Application.CardLayoutDemo.executor": "Run",
     "Application.ConnectingCities.executor": "Run",
     "Application.Dijkstra.executor": "Run",
     "Application.DisjointSets.executor": "Run",
     "Application.ExtendingThreads (1).executor": "Run",
     "Application.ExtendingThreads.executor": "Run",
+    "Application.FileDialogDemo.executor": "Run",
     "Application.FirstFile.executor": "Run",
+    "Application.FlowLayoutDemo.executor": "Run",
+    "Application.GridLAyoutDEmo.executor": "Run",
     "Application.IsCycle.executor": "Run",
     "Application.Kruskal.executor": "Run",
+    "Application.LabelControlDemo.executor": "Run",
     "Application.MThread.executor": "Run",
+    "Application.PanelExample.executor": "Run",
     "Application.Prims.executor": "Run",
     "Application.ReadingFille.executor": "Run",
     "Application.SchedulingThreads.executor": "Run",
+    "Application.TestApplet.executor": "Run",
     "Application.ThradControl.executor": "Run",
     "Application.ThreadCommunication (1).executor": "Run",
     "Application.ThreadCommunication.executor": "Run",
     "Application.ThreadControl (1).executor": "Run",
     "Application.Topological.executor": "Run",
     "Application.UsingRI.executor": "Run",
+    "Application.WordCount.executor": "Run",
     "Application.WrittingFile.executor": "Run",
+    "Application.calculatorApp.executor": "Run",
+    "Application.dialogExample.executor": "Run",
     "Application.flightKStops.executor": "Run",
+    "Application.simpleSwingExample.executor": "Run",
+    "Application.windowExmpl.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -111,13 +113,13 @@
       <recent name="ARRAYLIST" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReadingFille">
-    <configuration name="AreaUsingThreads (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MULTITHREADING.AreaUsingThreads" />
+  <component name="RunManager" selected="Application.WordCount">
+    <configuration name="CardLayoutDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.LAYOUTS.CardLayoutDemo" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MULTITHREADING.*" />
+          <option name="PATTERN" value="GUI.LAYOUTS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AreaUsingThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MULTITHREADING.AreaUsingThreads" />
+    <configuration name="LabelControlDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.CONTROLS.LabelControlDemo" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MULTITHREADING.*" />
+          <option name="PATTERN" value="GUI.CONTROLS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FILEHANDLING.FirstFile" />
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.SWING.WordCount" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FILEHANDLING.*" />
+          <option name="PATTERN" value="GUI.SWING.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadingFille" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FILEHANDLING.ReadingFille" />
+    <configuration name="calculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.calculatorApp" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FILEHANDLING.*" />
+          <option name="PATTERN" value="GUI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,38 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadControl (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MULTITHREADING.ThreadControl" />
+    <configuration name="simpleSwingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.SWING.simpleSwingExample" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MULTITHREADING.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MULTITHREADING.ThreadControl" />
-      <module name="DSA_JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MULTITHREADING.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WrittingFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FILEHANDLING.WrittingFile" />
-      <module name="DSA_JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FILEHANDLING.*" />
+          <option name="PATTERN" value="GUI.SWING.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReadingFille" />
-        <item itemvalue="Application.WrittingFile" />
-        <item itemvalue="Application.FirstFile" />
-        <item itemvalue="Application.ThreadControl (1)" />
-        <item itemvalue="Application.ThreadControl" />
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.calculatorApp" />
+        <item itemvalue="Application.simpleSwingExample" />
+        <item itemvalue="Application.LabelControlDemo" />
+        <item itemvalue="Application.CardLayoutDemo" />
       </list>
     </recent_temporary>
   </component>
