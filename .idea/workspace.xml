@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05b7bcbd-9a0f-450a-9ffd-99d953341991" name="Changes" comment="basic changes in JAVA folder">
-      <change afterPath="$PROJECT_DIR$/src/NETWORKING/UDP_P1/DGR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NETWORKING/UDP_P1/DGS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NETWORKING/URL/URLdemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NETWORKING/TCP_P2/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NETWORKING/TCP_P2/ChatClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,61 +49,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.AreaUsingThreads (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.AreaUsingThreads (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.AreaUsingThreads.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bellman_Ford.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BorderLayoutDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CardLayoutDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChatClient.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConnectingCities.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DGR.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DGS.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dijkstra.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DisjointSets.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExtendingThreads (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExtendingThreads.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileDialogDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstFile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FlowLayoutDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GridLAyoutDEmo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IsCycle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Kruskal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LabelControlDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MThread.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PanelExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prims.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadingFille.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SchedulingThreads.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestApplet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThradControl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadCommunication (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadCommunication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadControl (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Topological.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UsingRI.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WordCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WrittingFile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.calculatorApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.chatServer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dialogExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.flightKStops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.server.executor&quot;: &quot;Run&quot;,
-    &quot;Application.simpleSwingExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.windowExmpl.executor&quot;: &quot;Run&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AreaUsingThreads (1).executor": "Run",
+    "Application.AreaUsingThreads (2).executor": "Run",
+    "Application.AreaUsingThreads.executor": "Run",
+    "Application.Bellman_Ford.executor": "Run",
+    "Application.BorderLayoutDemo.executor": "Run",
+    "Application.CardLayoutDemo.executor": "Run",
+    "Application.ChatClient.executor": "Run",
+    "Application.ClimbStairs.executor": "Run",
+    "Application.ConnectingCities.executor": "Run",
+    "Application.DGR.executor": "Run",
+    "Application.DGS.executor": "Run",
+    "Application.Dijkstra.executor": "Run",
+    "Application.DisjointSets.executor": "Run",
+    "Application.ExtendingThreads (1).executor": "Run",
+    "Application.ExtendingThreads.executor": "Run",
+    "Application.FileDialogDemo.executor": "Run",
+    "Application.FirstFile.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.FlowLayoutDemo.executor": "Run",
+    "Application.GridLAyoutDEmo.executor": "Run",
+    "Application.IsCycle.executor": "Run",
+    "Application.Kruskal.executor": "Run",
+    "Application.LabelControlDemo.executor": "Run",
+    "Application.MThread.executor": "Run",
+    "Application.PanelExample.executor": "Run",
+    "Application.Prims.executor": "Run",
+    "Application.ReadingFille.executor": "Run",
+    "Application.SchedulingThreads.executor": "Run",
+    "Application.TestApplet.executor": "Run",
+    "Application.ThradControl.executor": "Run",
+    "Application.ThreadCommunication (1).executor": "Run",
+    "Application.ThreadCommunication.executor": "Run",
+    "Application.ThreadControl (1).executor": "Run",
+    "Application.Topological.executor": "Run",
+    "Application.UsingRI.executor": "Run",
+    "Application.WordCount.executor": "Run",
+    "Application.WrittingFile.executor": "Run",
+    "Application.calculatorApp.executor": "Run",
+    "Application.chatServer.executor": "Run",
+    "Application.client.executor": "Run",
+    "Application.dialogExample.executor": "Run",
+    "Application.fibonacciDP.executor": "Run",
+    "Application.flightKStops.executor": "Run",
+    "Application.server.executor": "Run",
+    "Application.simpleSwingExample.executor": "Run",
+    "Application.windowExmpl.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\OneDrive\Desktop\DSA_JAVA\src\ARRAYLIST" />
@@ -120,7 +119,7 @@
       <recent name="ARRAYLIST" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.chatServer">
+  <component name="RunManager" selected="Application.ClimbStairs">
     <configuration name="ChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NETWORKING.TCP_P2.ChatClient" />
       <module name="DSA_JAVA" />
@@ -134,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DGR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NETWORKING.UDP_P1.DGR" />
+    <configuration name="ClimbStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.ClimbStairs" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NETWORKING.UDP_P1.*" />
+          <option name="PATTERN" value="DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DGS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NETWORKING.UDP_P1.DGS" />
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PROBLEMS.FizzBuzz" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NETWORKING.UDP_P1.*" />
+          <option name="PATTERN" value="PROBLEMS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NETWORKING.TCP_P1.client" />
+    <configuration name="fibonacciDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.fibonacciDP" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NETWORKING.TCP_P1.*" />
+          <option name="PATTERN" value="DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClimbStairs" />
+        <item itemvalue="Application.fibonacciDP" />
+        <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.chatServer" />
         <item itemvalue="Application.ChatClient" />
-        <item itemvalue="Application.DGS" />
-        <item itemvalue="Application.DGR" />
-        <item itemvalue="Application.client" />
       </list>
     </recent_temporary>
   </component>
