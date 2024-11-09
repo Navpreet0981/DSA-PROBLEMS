@@ -1,4 +1,4 @@
-package PROBLEMS;
+package HACKER_RANK;
 
 public class FizzBuzz {
     public static void fizzbuzz(int n){
