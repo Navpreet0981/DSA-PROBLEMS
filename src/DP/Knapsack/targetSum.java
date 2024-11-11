@@ -1,4 +1,4 @@
-package DP;
+package DP.Knapsack;
 public class targetSum {
     public static void print(boolean[][] dp){
         for (int i =0; i<dp.length; i++){

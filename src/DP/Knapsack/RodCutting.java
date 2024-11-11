@@ -1,4 +1,4 @@
-package DP;
+package DP.Knapsack;
 
 
 //Variation Of Unbounded Knapsack

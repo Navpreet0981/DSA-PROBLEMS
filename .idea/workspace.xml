@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05b7bcbd-9a0f-450a-9ffd-99d953341991" name="Changes" comment="basic changes in JAVA folder">
-      <change afterPath="$PROJECT_DIR$/src/DP/LCS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/LCS_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/LIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/RodCutting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/LongestCommonSub/EditDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/LongestCommonSub/StringConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/LongestCommonSub/WildCardMatching.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HACKER_RANK/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HACKER_RANK/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/ClimbStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/LCS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/LongestCommonSub/LCS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/LCS_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/LongestCommonSub/LCS_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/LIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/LongestCommonSub/LIS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/RodCutting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/RodCutting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/UnboundedKnapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/UnboundedKnapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/knapsack01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/knapsack01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/targetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/targetSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +78,7 @@
     "Application.DGS.executor": "Run",
     "Application.Dijkstra.executor": "Run",
     "Application.DisjointSets.executor": "Run",
+    "Application.EditDistance.executor": "Run",
     "Application.ExtendingThreads (1).executor": "Run",
     "Application.ExtendingThreads.executor": "Run",
     "Application.FileDialogDemo.executor": "Run",
@@ -90,6 +98,7 @@
     "Application.ReadingFille.executor": "Run",
     "Application.RodCutting.executor": "Run",
     "Application.SchedulingThreads.executor": "Run",
+    "Application.StringConversion.executor": "Run",
     "Application.TestApplet.executor": "Run",
     "Application.ThradControl.executor": "Run",
     "Application.ThreadCommunication (1).executor": "Run",
@@ -98,6 +107,7 @@
     "Application.Topological.executor": "Run",
     "Application.UnboundedKnapsack.executor": "Run",
     "Application.UsingRI.executor": "Run",
+    "Application.WildCardMatching.executor": "Run",
     "Application.WordCount.executor": "Run",
     "Application.WrittingFile.executor": "Run",
     "Application.calculatorApp.executor": "Run",
@@ -117,7 +127,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -132,26 +142,13 @@
       <recent name="ARRAYLIST" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LIS">
-    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.CoinChange" />
+  <component name="RunManager" selected="Application.WildCardMatching">
+    <configuration name="EditDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.LongestCommonSub.EditDistance" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.LCS" />
-      <module name="DSA_JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="DP.LongestCommonSub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +157,11 @@
       </method>
     </configuration>
     <configuration name="LCS_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.LCS_2" />
+      <option name="MAIN_CLASS_NAME" value="DP.LongestCommonSub.LCS_2" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="DP.Knapsack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +170,11 @@
       </method>
     </configuration>
     <configuration name="LIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.LIS" />
+      <option name="MAIN_CLASS_NAME" value="DP.LongestCommonSub.LIS" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="DP.Knapsack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +182,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RodCutting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.RodCutting" />
+    <configuration name="StringConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.LongestCommonSub.StringConversion" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="DP.LongestCommonSub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WildCardMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.LongestCommonSub.WildCardMatching" />
+      <module name="DSA_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.LongestCommonSub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WildCardMatching" />
+        <item itemvalue="Application.StringConversion" />
+        <item itemvalue="Application.EditDistance" />
         <item itemvalue="Application.LIS" />
         <item itemvalue="Application.LCS_2" />
-        <item itemvalue="Application.LCS" />
-        <item itemvalue="Application.RodCutting" />
-        <item itemvalue="Application.CoinChange" />
       </list>
     </recent_temporary>
   </component>
@@ -234,5 +244,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="basic changes in JAVA folder" />
     <option name="LAST_COMMIT_MESSAGE" value="basic changes in JAVA folder" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DP/LongestCommonSub/LCS.java</url>
+          <line>42</line>
+          <properties class="DP.LongestCommonSub.LCS" method="usingTabulation">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DP/LongestCommonSub/LCS.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

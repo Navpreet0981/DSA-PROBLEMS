@@ -1,4 +1,4 @@
-package DP;
+package DP.LongestCommonSub;
 
 //Longest Common SubSequence
 public class LCS {

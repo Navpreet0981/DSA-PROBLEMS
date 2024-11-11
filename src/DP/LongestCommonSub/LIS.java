@@ -1,7 +1,6 @@
-package DP;
+package DP.LongestCommonSub;
 
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.HashSet;
 
 //Longest Increasing Subsequence
