@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05b7bcbd-9a0f-450a-9ffd-99d953341991" name="Changes" comment="basic changes in JAVA folder">
-      <change afterPath="$PROJECT_DIR$/src/DP/LongestCommonSub/EditDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/LongestCommonSub/StringConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/LongestCommonSub/WildCardMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/CatalansConcept/CatalanNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/ClimbStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/CoinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/LCS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/LongestCommonSub/LCS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/LCS_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/LongestCommonSub/LCS_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/LIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/LongestCommonSub/LIS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/RodCutting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/RodCutting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/UnboundedKnapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/UnboundedKnapsack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/knapsack01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/knapsack01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/targetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Knapsack/targetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/fibonacciDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/fibonacciDP.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +60,7 @@
     "Application.Bellman_Ford.executor": "Run",
     "Application.BorderLayoutDemo.executor": "Run",
     "Application.CardLayoutDemo.executor": "Run",
+    "Application.CatalanNum.executor": "Run",
     "Application.ChatClient.executor": "Run",
     "Application.ClimbStairs.executor": "Run",
     "Application.CoinChange.executor": "Run",
@@ -142,13 +133,13 @@
       <recent name="ARRAYLIST" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WildCardMatching">
-    <configuration name="EditDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.LongestCommonSub.EditDistance" />
+  <component name="RunManager" selected="Application.CatalanNum">
+    <configuration name="CatalanNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.CatalansConcept.CatalanNum" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.LongestCommonSub.*" />
+          <option name="PATTERN" value="DP.CatalansConcept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LCS_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.LongestCommonSub.LCS_2" />
+    <configuration name="EditDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.LongestCommonSub.EditDistance" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.Knapsack.*" />
+          <option name="PATTERN" value="DP.LongestCommonSub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CatalanNum" />
         <item itemvalue="Application.WildCardMatching" />
         <item itemvalue="Application.StringConversion" />
         <item itemvalue="Application.EditDistance" />
         <item itemvalue="Application.LIS" />
-        <item itemvalue="Application.LCS_2" />
       </list>
     </recent_temporary>
   </component>

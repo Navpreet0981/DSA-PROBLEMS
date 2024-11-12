@@ -4,7 +4,7 @@ public class fibonacciDP {
         if ( n == 1 || n == 0 ){
             return n;
         }
-        if (f[n]!= 0){
+        if (f[n] != 0){
             return f[n];
         }
 
