@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05b7bcbd-9a0f-450a-9ffd-99d953341991" name="Changes" comment="basic changes in JAVA folder">
-      <change afterPath="$PROJECT_DIR$/src/DP/CatalansConcept/CatalanNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Knapsack/MinimumPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/MatrixChainMultiplication/MCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/MinJumps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/fibonacciDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/fibonacciDP.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +84,10 @@
     "Application.LCS_2.executor": "Run",
     "Application.LIS.executor": "Run",
     "Application.LabelControlDemo.executor": "Run",
+    "Application.MCM.executor": "Run",
     "Application.MThread.executor": "Run",
+    "Application.MinJumps.executor": "Run",
+    "Application.MinimumPartition.executor": "Run",
     "Application.PanelExample.executor": "Run",
     "Application.Prims.executor": "Run",
     "Application.ReadingFille.executor": "Run",
@@ -133,7 +137,7 @@
       <recent name="ARRAYLIST" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CatalanNum">
+  <component name="RunManager" selected="Application.MinJumps">
     <configuration name="CatalanNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.CatalansConcept.CatalanNum" />
       <module name="DSA_JAVA" />
@@ -147,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EditDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.LongestCommonSub.EditDistance" />
+    <configuration name="MCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.MatrixChainMultiplication.MCM" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.LongestCommonSub.*" />
+          <option name="PATTERN" value="DP.MatrixChainMultiplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,25 +164,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.LongestCommonSub.LIS" />
+    <configuration name="MinJumps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.MinJumps" />
+      <module name="DSA_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumPartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.Knapsack.MinimumPartition" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DP.Knapsack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.LongestCommonSub.StringConversion" />
-      <module name="DSA_JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.LongestCommonSub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinJumps" />
+        <item itemvalue="Application.MinimumPartition" />
+        <item itemvalue="Application.MCM" />
         <item itemvalue="Application.CatalanNum" />
         <item itemvalue="Application.WildCardMatching" />
-        <item itemvalue="Application.StringConversion" />
-        <item itemvalue="Application.EditDistance" />
-        <item itemvalue="Application.LIS" />
       </list>
     </recent_temporary>
   </component>
