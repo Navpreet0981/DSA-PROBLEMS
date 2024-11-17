@@ -35,3 +35,10 @@ public class JAVADB1 {
 
     }
 }
+/*
+To Run This Code Run This Commands
+javac -cp ".:/c/Users/DELL/OneDrive/Desktop/DSA_JAVA/src:/c/Users/DELL/OneDrive/Desktop/DSA_JAVA/src/JDBC/mysql-connector-j-9.1.0.jar" JDBC/JAVADB1.java
+
+java -cp ".:/c/Users/DELL/OneDrive/Desktop/DSA_JAVA/src:/c/Users/DELL/OneDrive/Desktop/DSA_JAVA/src/JDBC/mysql-connector-j-9.1.0.jar" JDBC.JAVADB1
+
+ */
