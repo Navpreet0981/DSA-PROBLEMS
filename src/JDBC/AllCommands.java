@@ -6,13 +6,16 @@ import java.sql.*;
 public class AllCommands {
 
     static final String Driver = "com.mysql.cj.jdbc.Driver";
-    static final String URL = "jdbc:mysql://localhost:3306/my_database";
+    static final String URL = "jdbc:mysql://localhost:3306/my_database"; //To Manipulate Commands In This Database And Also To create New Table In This DB
+    static final String URL2 = "jdbc:mysql://localhost:3306/"; //To Create New Database
     static final String User = "root";
     static final String Pass = "116081Gb.";
 
     public static void main(String[] args) throws IOException, SQLException, ClassNotFoundException {
         Connection cnn = null;
+        Connection cnn2 = null;
         Statement st = null;
+        Statement st2 = null;
         PreparedStatement st1 = null;
         ResultSet rs = null;
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
@@ -24,6 +27,13 @@ public class AllCommands {
             // Establish connection
             cnn = DriverManager.getConnection(URL, User, Pass);
 
+            /*
+            cnn2 = DriverManager.getConnection(URL2, User, Pass);//Manipulate URL2
+            st2 = cnn2.createStatement();
+            rs = st2.executeQuery("create database db2"); //Will Create New DB
+            rs = st2.executeQuery("create table nav2(id int(30), name varchar(40), age int(10)"); //Will Create New TABLE
+
+             */
             System.out.println("Enter Your Choice \n 1:Display \n 2:Insert \n 3:Delete  \n 4:Update  \n 5:Search ");
             int ch = Integer.parseInt(in.readLine());
 
