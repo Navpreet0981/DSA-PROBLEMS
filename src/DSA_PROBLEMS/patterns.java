@@ -1,5 +1,5 @@
 
-package DSA_PROBLEMS;
+// package DSA_PROBLEMS;
 //INVERTED HALF PYRAMID USING STARS
 /*
     *

@@ -1,4 +1,4 @@
-package DSA_PROBLEMS;
+// package DSA_PROBLEMS;
 public class trapping_rainwater {
     public static int trappedRainWater(int height[]){
         int n = height.length;

@@ -1,3 +1,4 @@
+package JAVA;
 public class autoboxing {
     public static void main(String[] args) {
         // int i =100;

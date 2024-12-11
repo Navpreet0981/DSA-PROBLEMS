@@ -1,4 +1,4 @@
-package DSA_PROBLEMS;
+// package DSA_PROBLEMS;
 
 public class subArray {
     public static void sub_array(int num[]){

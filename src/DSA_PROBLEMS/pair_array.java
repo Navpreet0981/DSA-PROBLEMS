@@ -1,4 +1,4 @@
-package DSA_PROBLEMS;
+// package DSA_PROBLEMS;
 
 public class pair_array {
     public static void Pairs(int num[]){

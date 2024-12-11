@@ -1,4 +1,4 @@
-package DSA_PROBLEMS;
+// package DSA_PROBLEMS;
 public class Even_bit {
 
     public static boolean odd_even(int n){

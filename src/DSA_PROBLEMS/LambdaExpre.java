@@ -1,4 +1,4 @@
-package DSA_PROBLEMS;
+// package DSA_PROBLEMS;
 
 interface MyNumber{
     double getvalue();
