@@ -2,6 +2,7 @@ package INTERVIEW_150;
 
 import java.util.HashMap;
 
+//To Find The Majority Of Particular element in array eg:- 1,2,2,3,3,4,3  output:- 3(max number times in array)
 public class P5 {
     public static int majorityElement(int[] nums) {
         HashMap<Integer, Integer> hs = new HashMap<>();

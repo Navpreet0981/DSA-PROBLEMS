@@ -1,6 +1,8 @@
 package INTERVIEW_150;
 
 public class P4 {
+
+//    To Remove Third Duplicate num from array for eg:- 1,1,1,2,2,3,3 output:- 1,1,2,2,3,3
     public static int removeDuplicates(int[] nums) {
         if(nums.length == 2){
             return 2;
