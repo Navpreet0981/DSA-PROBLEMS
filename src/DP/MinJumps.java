@@ -9,7 +9,7 @@ public class MinJumps {
         int[] dp = new int[n];
         Arrays.fill(dp, -1);
         dp[n-1] = 0;
-        for (int i=n-2; i>=0; i--){
+        for (int i=n-2; i >= 0; i--){
             int steps = arr[i];
             int ans = Integer.MAX_VALUE;
             for (int j=i+1; j<= i+steps && j<n; j++){
