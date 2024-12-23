@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05b7bcbd-9a0f-450a-9ffd-99d953341991" name="Changes" comment="basic changes in JAVA folder" />
+    <list default="true" id="05b7bcbd-9a0f-450a-9ffd-99d953341991" name="Changes" comment="basic changes in JAVA folder">
+      <change afterPath="$PROJECT_DIR$/src/INTERVIEW_150/P22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/INTERVIEW_150/P23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE_75/P21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE_75/P22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -246,25 +252,5 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="basic changes in JAVA folder" />
     <option name="LAST_COMMIT_MESSAGE" value="basic changes in JAVA folder" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/DP/LongestCommonSub/LCS.java</url>
-          <line>42</line>
-          <properties class="DP.LongestCommonSub.LCS" method="usingTabulation">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DP/LongestCommonSub/LCS.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
