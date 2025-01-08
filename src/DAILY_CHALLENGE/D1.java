@@ -16,7 +16,6 @@ public class D1 {
             for(int j = i + 1; j < n; j++){
                 String str1 = words[i];
                 String str2 = words[j];
-
                 if(str1.length() > str2.length()){continue;}
                 if(str2.startsWith(str1) && str2.endsWith(str1)){
                     ++count;
