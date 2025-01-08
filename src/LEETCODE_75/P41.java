@@ -7,7 +7,7 @@ public class P41 {
 //    Rotting Oranges
 public int orangesRotting(int[][] grid) {
     int n = grid.length;
-
+    System.out.println();
     int m = grid[0].length;
     int freshCount = 0;
     Queue<int[]> q = new LinkedList<>();

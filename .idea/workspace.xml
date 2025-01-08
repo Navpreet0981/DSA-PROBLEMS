@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05b7bcbd-9a0f-450a-9ffd-99d953341991" name="Changes" comment="basic changes in JAVA folder">
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE_75/P38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE_75/P39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/INTERVIEW_150/P26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LEETCODE_75/P41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LEETCODE_75/P41.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
