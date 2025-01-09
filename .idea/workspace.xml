@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05b7bcbd-9a0f-450a-9ffd-99d953341991" name="Changes" comment="basic changes in JAVA folder">
-      <change afterPath="$PROJECT_DIR$/src/HASH_HEAPS/MyHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE_75/P42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HASH_HEAPS/MyPriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE_75/P43.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAILY_CHALLENGE/D1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAILY_CHALLENGE/D1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +89,8 @@
     "Application.MinJumps.executor": "Run",
     "Application.MinimumPartition.executor": "Run",
     "Application.MyHeap.executor": "Run",
+    "Application.MyPriorityQueue (1).executor": "Run",
+    "Application.MyPriorityQueue.executor": "Run",
     "Application.P4.executor": "Run",
     "Application.P5.executor": "Run",
     "Application.P6.executor": "Run",
@@ -150,7 +151,7 @@
       <recent name="ARRAYLIST" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyHeap">
+  <component name="RunManager" selected="Application.MyPriorityQueue">
     <configuration name="MyHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HASH_HEAPS.MyHeap" />
       <module name="DSA_JAVA" />
@@ -164,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="INTERVIEW_150.P4" />
+    <configuration name="MyPriorityQueue (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HASH_HEAPS.MyPriorityQueue" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="INTERVIEW_150.*" />
+          <option name="PATTERN" value="HASH_HEAPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="INTERVIEW_150.P5" />
+    <configuration name="MyPriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HASH_HEAPS.MyPriorityQueue" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="INTERVIEW_150.*" />
+          <option name="PATTERN" value="HASH_HEAPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyPriorityQueue" />
+        <item itemvalue="Application.MyPriorityQueue (1)" />
         <item itemvalue="Application.MyHeap" />
         <item itemvalue="Application.P8" />
         <item itemvalue="Application.P6" />
-        <item itemvalue="Application.P5" />
-        <item itemvalue="Application.P4" />
       </list>
     </recent_temporary>
   </component>
