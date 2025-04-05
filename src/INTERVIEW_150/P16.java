@@ -16,8 +16,6 @@ public int romanToInt(String s) {
             number = 10;
         } else if (s.charAt(i) == 'L') {
             number = 50;
-        } else if (s.charAt(i) == 'V') {
-            number = 50;
         } else if (s.charAt(i) == 'C') {
             number = 100;
         } else if (s.charAt(i) == 'D') {

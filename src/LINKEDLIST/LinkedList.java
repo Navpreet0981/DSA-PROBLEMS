@@ -15,7 +15,7 @@ public class LinkedList {
     public static int size;
 
     public void addFirst(int data){
-        //step-1 create new node
+        //step-1 create a new node
             Node newNode = new Node(data);
             size++;
         if (head == null){
@@ -30,7 +30,7 @@ public class LinkedList {
         head = newNode;
     }
     public void addLast(int data){
-        //Step-1 cerate a new node
+        //Step-1 create a new node
         Node newNode =  new Node(data);
         size++;
         if (head == null){

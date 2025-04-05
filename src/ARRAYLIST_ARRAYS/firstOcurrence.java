@@ -8,10 +8,6 @@ public class firstOcurrence {
         }else{
             System.out.println("Key Not Found");
         }
-
-
-
-
     }
 
     public static void main(String[] args) {

@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05b7bcbd-9a0f-450a-9ffd-99d953341991" name="Changes" comment="basic changes in JAVA folder">
-      <change afterPath="$PROJECT_DIR$/src/HASH_HEAPS/MyPriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE_75/P43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AMCAT/Bus_Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AMCAT/Cells.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AMCAT/InsertInCL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AMCAT/LRU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AMCAT/RoundRoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAILY_CHALLENGE/practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tricks/Lower_Uper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tricks/Without_Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tricks/Without_Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAYLIST_ARRAYS/firstOcurrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYLIST_ARRAYS/firstOcurrence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/INTERVIEW_150/P16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/INTERVIEW_150/P16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LINKEDLIST/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LINKEDLIST/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SORTING/insertion_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SORTING/insertion_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SORTING/slection_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SORTING/slection_sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,89 +63,96 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.AreaUsingThreads (1).executor": "Run",
-    "Application.AreaUsingThreads (2).executor": "Run",
-    "Application.AreaUsingThreads.executor": "Run",
-    "Application.Bellman_Ford.executor": "Run",
-    "Application.BorderLayoutDemo.executor": "Run",
-    "Application.CardLayoutDemo.executor": "Run",
-    "Application.CatalanNum.executor": "Run",
-    "Application.ChatClient.executor": "Run",
-    "Application.ClimbStairs.executor": "Run",
-    "Application.CoinChange.executor": "Run",
-    "Application.ConnectingCities.executor": "Run",
-    "Application.DGR.executor": "Run",
-    "Application.DGS.executor": "Run",
-    "Application.Dijkstra.executor": "Run",
-    "Application.DisjointSets.executor": "Run",
-    "Application.EditDistance.executor": "Run",
-    "Application.ExtendingThreads (1).executor": "Run",
-    "Application.ExtendingThreads.executor": "Run",
-    "Application.FileDialogDemo.executor": "Run",
-    "Application.FirstFile.executor": "Run",
-    "Application.FizzBuzz.executor": "Run",
-    "Application.FlowLayoutDemo.executor": "Run",
-    "Application.GridLAyoutDEmo.executor": "Run",
-    "Application.IsCycle.executor": "Run",
-    "Application.JAVADB1.executor": "Run",
-    "Application.Kruskal.executor": "Run",
-    "Application.LCS.executor": "Run",
-    "Application.LCS_2.executor": "Run",
-    "Application.LIS.executor": "Run",
-    "Application.LabelControlDemo.executor": "Run",
-    "Application.MCM.executor": "Run",
-    "Application.MThread.executor": "Run",
-    "Application.MinJumps.executor": "Run",
-    "Application.MinimumPartition.executor": "Run",
-    "Application.MyHeap.executor": "Run",
-    "Application.MyPriorityQueue (1).executor": "Run",
-    "Application.MyPriorityQueue.executor": "Run",
-    "Application.P4.executor": "Run",
-    "Application.P5.executor": "Run",
-    "Application.P6.executor": "Run",
-    "Application.P8.executor": "Run",
-    "Application.PanelExample.executor": "Run",
-    "Application.Prims.executor": "Run",
-    "Application.ReadingFille.executor": "Run",
-    "Application.RodCutting.executor": "Run",
-    "Application.SchedulingThreads.executor": "Run",
-    "Application.StringConversion.executor": "Run",
-    "Application.SubArraySum.executor": "Run",
-    "Application.TestApplet.executor": "Run",
-    "Application.ThradControl.executor": "Run",
-    "Application.ThreadCommunication (1).executor": "Run",
-    "Application.ThreadCommunication.executor": "Run",
-    "Application.ThreadControl (1).executor": "Run",
-    "Application.Topological.executor": "Run",
-    "Application.UnboundedKnapsack.executor": "Run",
-    "Application.UsingRI.executor": "Run",
-    "Application.WildCardMatching.executor": "Run",
-    "Application.WordCount.executor": "Run",
-    "Application.WrittingFile.executor": "Run",
-    "Application.calculatorApp.executor": "Run",
-    "Application.chatServer.executor": "Run",
-    "Application.client.executor": "Run",
-    "Application.dialogExample.executor": "Run",
-    "Application.fibonacciDP.executor": "Run",
-    "Application.flightKStops.executor": "Run",
-    "Application.knapsack01.executor": "Run",
-    "Application.server.executor": "Run",
-    "Application.simpleSwingExample.executor": "Run",
-    "Application.targetSum.executor": "Run",
-    "Application.windowExmpl.executor": "Run",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/DELL/OneDrive/Desktop/SERVLET_P1",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AreaUsingThreads (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaUsingThreads (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaUsingThreads.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bellman_Ford.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BorderLayoutDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bus_Ticket.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CardLayoutDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CatalanNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cells.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChatClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClimbStairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CoinChange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConnectingCities.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DGR.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DGS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dijkstra.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DisjointSets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EditDistance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExtendingThreads (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExtendingThreads.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileDialogDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlowLayoutDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GridLAyoutDEmo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertInCL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsCycle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JAVADB1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kruskal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LCS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LCS_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LIS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LRU.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LabelControlDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lower_Uper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MCM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinJumps.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinimumPartition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyHeap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyPriorityQueue (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyPriorityQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PanelExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prims.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadingFille.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RodCutting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SchedulingThreads.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubArraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestApplet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThradControl.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadCommunication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadCommunication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadControl (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Topological.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnboundedKnapsack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingRI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WildCardMatching.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Without_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WrittingFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.calculatorApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.chatServer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dialogExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibonacciDP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.flightKStops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.knapsack01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.server.executor&quot;: &quot;Run&quot;,
+    &quot;Application.simpleSwingExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.targetSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.windowExmpl.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/OneDrive/Desktop/DSA_JAVA&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\OneDrive\Desktop\DSA_JAVA\src\JDBC" />
@@ -151,13 +170,13 @@
       <recent name="ARRAYLIST" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyPriorityQueue">
-    <configuration name="MyHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HASH_HEAPS.MyHeap" />
+  <component name="RunManager" selected="Application.Without_Main">
+    <configuration name="Cells" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AMCAT.Cells" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HASH_HEAPS.*" />
+          <option name="PATTERN" value="AMCAT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyPriorityQueue (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HASH_HEAPS.MyPriorityQueue" />
+    <configuration name="InsertInCL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AMCAT.InsertInCL" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HASH_HEAPS.*" />
+          <option name="PATTERN" value="AMCAT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyPriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HASH_HEAPS.MyPriorityQueue" />
+    <configuration name="LRU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AMCAT.LRU" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HASH_HEAPS.*" />
+          <option name="PATTERN" value="AMCAT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="INTERVIEW_150.P6" />
+    <configuration name="Lower_Uper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tricks.Lower_Uper" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="INTERVIEW_150.*" />
+          <option name="PATTERN" value="Tricks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="INTERVIEW_150.P8" />
+    <configuration name="Without_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tricks.Without_Main" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="INTERVIEW_150.*" />
+          <option name="PATTERN" value="Tricks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyPriorityQueue" />
-        <item itemvalue="Application.MyPriorityQueue (1)" />
-        <item itemvalue="Application.MyHeap" />
-        <item itemvalue="Application.P8" />
-        <item itemvalue="Application.P6" />
+        <item itemvalue="Application.Without_Main" />
+        <item itemvalue="Application.Lower_Uper" />
+        <item itemvalue="Application.InsertInCL" />
+        <item itemvalue="Application.LRU" />
+        <item itemvalue="Application.Cells" />
       </list>
     </recent_temporary>
   </component>

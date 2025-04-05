@@ -6,8 +6,8 @@ public class insertion_sort {
             int cur =arr[i] ;
             int prev = i-1;
             //Finding Out Current Element To Insert
-            while (prev>= 0 && arr[prev] > cur) {
-                arr[prev+1 ] = arr[prev];
+            while (prev >= 0 && arr[prev] > cur) {
+                arr[prev + 1] = arr[prev];
                 prev--;
             }
             //Insertion

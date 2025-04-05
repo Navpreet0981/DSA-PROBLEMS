@@ -5,12 +5,12 @@ public class slection_sort {
         for(int i = 0 ; i<arr.length-1; i++){
             int minPos = i;
             for(int j =i+1; j<arr.length; j++){
-                //For Incresing Order
+                //For Increasing Order
                 if (arr[minPos] > arr[j]) {
                     minPos = j;
                 }
 
-                //For Decresing Order
+                //For Decreasing Order
                /* if (arr[minPos] < arr[j]) {
                     minPos = j;
                 }*/
