@@ -8,6 +8,20 @@ public class Without_Main {
 //        System.exit(0);
 //    }
 
+
+    public int singleNumber(int[] nums) {
+        int result = 0;
+        for (int num : nums) {
+            result ^= num; // XOR cancels duplicates: a^a = 0, a^0 = a
+        }
+        return result;
+    }
+    /*  🔍 Example:
+        Input: nums = [2, 3, 5, 4, 5, 3, 4]
+        Output: 2 ✅ (only number that appears once)
+    */
+
+
     public static int digitCount(int n){
         double digits = log10(n) + 1;
         return (int) digits;
