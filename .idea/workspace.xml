@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05b7bcbd-9a0f-450a-9ffd-99d953341991" name="Changes" comment="basic changes in JAVA folder">
-      <change afterPath="$PROJECT_DIR$/src/BIT_MANIPULATION/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GRAPHS/REVISION/G1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/INPUT_OUTPUT/Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA_FEATURES/Banner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA_FEATURES/CompareObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA_FEATURES/MyGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA_FEATURES/Threading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tricks/Without_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tricks/Without_Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,7 @@
     "Application.AreaUsingThreads (1).executor": "Run",
     "Application.AreaUsingThreads (2).executor": "Run",
     "Application.AreaUsingThreads.executor": "Run",
+    "Application.Banner.executor": "Run",
     "Application.Basics.executor": "Run",
     "Application.Bellman_Ford.executor": "Run",
     "Application.BorderLayoutDemo.executor": "Run",
@@ -70,6 +71,9 @@
     "Application.ChatClient.executor": "Run",
     "Application.ClimbStairs.executor": "Run",
     "Application.CoinChange.executor": "Run",
+    "Application.CompareObjects (1).executor": "Run",
+    "Application.CompareObjects (2).executor": "Run",
+    "Application.CompareObjects.executor": "Run",
     "Application.ConnectingCities.executor": "Run",
     "Application.DGR.executor": "Run",
     "Application.DGS.executor": "Run",
@@ -98,6 +102,8 @@
     "Application.MThread.executor": "Run",
     "Application.MinJumps.executor": "Run",
     "Application.MinimumPartition.executor": "Run",
+    "Application.MyGeneric (1).executor": "Run",
+    "Application.MyGeneric.executor": "Run",
     "Application.MyHeap.executor": "Run",
     "Application.MyPriorityQueue (1).executor": "Run",
     "Application.MyPriorityQueue.executor": "Run",
@@ -117,6 +123,8 @@
     "Application.ThreadCommunication (1).executor": "Run",
     "Application.ThreadCommunication.executor": "Run",
     "Application.ThreadControl (1).executor": "Run",
+    "Application.Threading (1).executor": "Run",
+    "Application.Threading.executor": "Run",
     "Application.Topological.executor": "Run",
     "Application.UnboundedKnapsack.executor": "Run",
     "Application.UsingRI.executor": "Run",
@@ -167,13 +175,13 @@
       <recent name="ARRAYLIST" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Buffer">
-    <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BIT_MANIPULATION.Basics" />
+  <component name="RunManager" selected="Application.Banner">
+    <configuration name="Banner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA_FEATURES.Banner" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BIT_MANIPULATION.*" />
+          <option name="PATTERN" value="JAVA_FEATURES.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Buffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="INPUT_OUTPUT.Buffer" />
+    <configuration name="CompareObjects (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA_FEATURES.CompareObjects" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="INPUT_OUTPUT.*" />
+          <option name="PATTERN" value="JAVA_FEATURES.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GRAPHS.REVISION.G1" />
+    <configuration name="CompareObjects (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA_FEATURES.CompareObjects" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GRAPHS.REVISION.*" />
+          <option name="PATTERN" value="JAVA_FEATURES.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lower_Uper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tricks.Lower_Uper" />
+    <configuration name="Threading (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA_FEATURES.Threading" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tricks.*" />
+          <option name="PATTERN" value="JAVA_FEATURES.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Without_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tricks.Without_Main" />
+    <configuration name="Threading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA_FEATURES.Threading" />
       <module name="DSA_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tricks.*" />
+          <option name="PATTERN" value="JAVA_FEATURES.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Buffer" />
-        <item itemvalue="Application.Basics" />
-        <item itemvalue="Application.G1" />
-        <item itemvalue="Application.Without_Main" />
-        <item itemvalue="Application.Lower_Uper" />
+        <item itemvalue="Application.Banner" />
+        <item itemvalue="Application.Threading (1)" />
+        <item itemvalue="Application.Threading" />
+        <item itemvalue="Application.CompareObjects (2)" />
+        <item itemvalue="Application.CompareObjects (1)" />
       </list>
     </recent_temporary>
   </component>
